@@ -10,7 +10,7 @@
     "dompurify": "^1.0.8",
     "draft-js": "^0.10.5",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "marked": "^0.3.19",
     "moment": "^2.23.0",
     "react": "^16.7.0",
